@@ -1,0 +1,906 @@
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\arrow.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\1x1.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\rectJuego.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont1.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\LetraGrande.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.xnb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.wma
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.wma
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.png
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.png
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.png
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.png
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.png
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\rectJuego.png
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.mp3
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.mp3
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.mp3
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.mp3
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.mp3
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.wav
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.wav
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.xap
+C:\Users\Jesus\Desktop\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\arrow.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\1x1.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont1.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\LetraGrande.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.wma
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.wma
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.png
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.png
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.png
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.png
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.png
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.mp3
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.mp3
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.mp3
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.mp3
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.mp3
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.wav
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.wav
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.xap
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\fondoPantalla.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\fondoPantalla.png
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Windows Phone Copia de BooblePuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letrero.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont2.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase1.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase2.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase3.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase4.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoMenu.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\newGame.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Opcion.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\rate.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Scene.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\splash.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\exit.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\video.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuInicio.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\PasarNivel.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reiniciar.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel11.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ProxNivel.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles1.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\AnteriorNivel.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles12.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Menu.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Candado.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Estrella.xnb
+C:\Users\Jesus\Desktop\Downloads\Windows Phone\Ejemplos Windows Phone Bomb Juan\Ejemplos\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Prueba1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\arrow.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\AnteriorNivel.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\exit.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase2.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase3.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase4.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoMenu.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles12.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuInicio.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\newGame.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel11.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Opcion.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\PasarNivel.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ProxNivel.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\rate.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reiniciar.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Scene.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\splash.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\video.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\1x1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\fondoPantalla.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letrero.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Menu.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Candado.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Estrella.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Prueba1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\LetraGrande.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont2.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.xnb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.wma
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.wma
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.png
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.png
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.png
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.png
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.png
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.mp3
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.mp3
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.mp3
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.mp3
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.mp3
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.wav
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.wav
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\fondoPantalla.png
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.xap
+C:\Users\Desarrollo\Desktop\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\XapCacheFile.xml
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\arrow.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\AnteriorNivel.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\exit.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase3.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase4.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoMenu.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles12.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuInicio.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\newGame.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Opcion.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\PasarNivel.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ProxNivel.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\rate.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reiniciar.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Scene.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\splash.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\video.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\1x1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\fondoPantalla.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letrero.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Menu.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Candado.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Estrella.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Prueba1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\LetraGrande.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme.wma
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Puzzle-Boble_theme2.wma
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\circle.png
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble-1.png
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\ParticulaBurbuja.png
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BurbujaAyuda.png
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\techo.png
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Boing.mp3
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Disparar.mp3
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Bubble Bobble Jump.mp3
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\BubbleSound.mp3
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Jump.mp3
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop1.wav
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\pop2.wav
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\fondoPantalla.png
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.pdb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.xml
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.dll
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.pdb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\AppManifest.xaml
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.xap
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\AnteriorNivel.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\exit.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase2.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase3.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase4.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoMenu.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles12.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuInicio.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\newGame.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Opcion.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\PasarNivel.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ProxNivel.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\rate.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reiniciar.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Scene.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\splash.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\video.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Menu.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Candado.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Estrella.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Prueba1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Windows Phone Copia de BooblePuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.dll
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\BooblePuzzle.pdb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\BooblePuzzle.xap
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Puntuacion.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\continuar.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ganar.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Pausa.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Perder.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Puntuacion.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ganar.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Pausa.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Perder.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\continuar.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\SpriteFont3.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\2.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\3.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\3.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\10.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\11.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\12.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\13.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\14.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\15.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\16.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\4.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\5.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\6.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\7.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\8.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\9.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\10.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\11.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\12.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\13.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\14.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\15.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\16.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\4.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\5.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\6.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\7.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\8.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\9.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo11.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo12.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo13.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo2.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo21.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo22.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo23.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo3.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo31.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo32.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo33.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo4.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo41.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo42.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo43.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\17.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\18.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\19.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\20.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\21.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\22.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\23.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\24.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\25.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\26.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\27.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\28.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\29.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\30.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\31.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\32.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo11.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo12.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo13.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo2.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo21.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo22.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo23.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo3.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo31.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo32.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo33.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo4.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo41.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo42.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo43.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\17.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\18.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\19.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\20.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\21.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\22.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\23.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\24.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\25.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\26.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\27.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\28.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\29.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\30.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\31.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\32.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\NumerosNiveles.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\33.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\34.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\35.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\36.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\37.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\38.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\39.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\40.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\41.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\42.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\43.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\44.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\45.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\46.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\47.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\48.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\49.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\50.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\51.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\52.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\53.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\54.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\55.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\56.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\57.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\58.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\59.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\60.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\61.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\62.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\63.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\64.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\65.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\66.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\67.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\68.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\69.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\70.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\71.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\72.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\73.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\74.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\75.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\76.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\78.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\79.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\80.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\81.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\82.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\83.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\84.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\85.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\86.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\87.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\88.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\89.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\90.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\91.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\92.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\93.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\94.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\95.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\96.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\77.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\33.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\34.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\35.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\36.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\37.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\38.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\39.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\40.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\41.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\42.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\43.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\44.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\45.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\46.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\47.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\48.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\49.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\50.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\51.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\52.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\53.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\54.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\55.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\56.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\57.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\58.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\59.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\60.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\61.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\62.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\63.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\64.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\65.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\66.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\67.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\68.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\69.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\70.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\71.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\72.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\73.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\74.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\75.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\76.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\78.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\79.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\80.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\81.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\82.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\83.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\84.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\85.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\86.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\87.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\88.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\89.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\90.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\91.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\92.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\93.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\94.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\95.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\96.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\77.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\100.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\101.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\102.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\103.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\104.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\105.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\106.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\107.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\108.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\109.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\110.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\111.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\112.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\113.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\114.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\115.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\116.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\117.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\118.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\119.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\120.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\121.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\122.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\123.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\124.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\125.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\126.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\127.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\128.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\129.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\130.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\131.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\132.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\133.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\134.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\135.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\136.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\137.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\138.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\139.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\140.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\141.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\142.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\143.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\144.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\97.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\98.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\99.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\145.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\146.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\147.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\148.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\149.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\150.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\151.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\152.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\153.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\154.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\155.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\156.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\157.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\158.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\159.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\160.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\161.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\162.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\163.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\164.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\165.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\166.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\167.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\168.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\169.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\170.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\171.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\172.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\173.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\174.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\175.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\176.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\177.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\178.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\179.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\180.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\181.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\182.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\183.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\184.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\185.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\186.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\187.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\188.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\189.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\190.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\191.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\192.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\100.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\101.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\102.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\103.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\104.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\105.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\106.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\107.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\108.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\109.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\110.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\111.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\112.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\113.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\114.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\115.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\116.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\117.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\118.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\119.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\120.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\121.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\122.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\123.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\124.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\125.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\126.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\127.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\128.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\129.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\130.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\131.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\132.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\133.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\134.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\135.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\136.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\137.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\138.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\139.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\140.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\141.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\142.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\143.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\144.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\97.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\98.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\99.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\145.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\146.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\147.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\148.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\149.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\150.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\151.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\152.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\153.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\154.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\155.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\156.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\157.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\158.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\159.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\160.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\161.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\162.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\163.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\164.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\165.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\166.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\167.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\168.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\169.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\170.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\171.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\172.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\173.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\174.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\175.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\176.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\177.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\178.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\179.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\180.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\181.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\182.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\183.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\184.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\185.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\186.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\187.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\188.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\189.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\190.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\191.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\192.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoOpciones.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Music.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoMusic.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Mail.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Efectos.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoEfectos.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reset.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Info.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ayuda.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoAyuda.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuReinicio.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuReinicio1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Cancel.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ok.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoOpciones.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Mail.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Music.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoMusic.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Efectos.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoEfectos.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reset.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Info.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ayuda.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoAyuda.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuReinicio.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuReinicio1.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Cancel.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ok.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Opciones.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Reinicio.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reloj.xnb
+\\VBOXSVR\Imagenes_Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reloj.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Boing.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Jump.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Puzzle-Boble_theme.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\pop1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\pop2.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Puzzle-Boble_theme.wma
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Boing.mp3
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Jump.mp3
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\pop1.wav
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\pop2.wav
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\SpriteFont1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\LetraGrande.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\SpriteFont2.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\SpriteFont3.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\NumerosNiveles.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Opciones.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Reinicio.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Musica.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondoPantalla.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondoPantalla.png
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\arrow.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\1x1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\bubble-1.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ParticulaBurbuja.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\BurbujaAyuda.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\techo.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Letrero.xnb
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\bubble-1.png
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ParticulaBurbuja.png
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\BurbujaAyuda.png
+C:\Users\Jesus\Desktop\Imagenes Puzzle\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\techo.png

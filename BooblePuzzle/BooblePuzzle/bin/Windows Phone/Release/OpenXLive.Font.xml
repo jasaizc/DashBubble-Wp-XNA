@@ -1,0 +1,1136 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenXLive.Font</name>
+    </assembly>
+    <members>
+        <member name="T:OpenXLive.Font.AppResources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_AchievementFromText">
+            <summary>
+              Looks up a localized string similar to From: {0}.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_NotEarnedText">
+            <summary>
+              Looks up a localized string similar to Locked.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_ObtainedFriendText">
+            <summary>
+              Looks up a localized string similar to Friends obtained the same.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_ObtainedPlayerNumberText">
+            <summary>
+              Looks up a localized string similar to {0} players obtained.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_ObtainedTimeText">
+            <summary>
+              Looks up a localized string similar to Obtained Time.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_ShareButtonContent">
+            <summary>
+              Looks up a localized string similar to share.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementProfilePage_Title">
+            <summary>
+              Looks up a localized string similar to DETAIL.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementsPage_AchievementTitle">
+            <summary>
+              Looks up a localized string similar to achievement.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AchievementsPage_LockedText">
+            <summary>
+              Looks up a localized string similar to Locked.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.AnnouncementsPage_AnnouncementTitle">
+            <summary>
+              Looks up a localized string similar to announcement.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_BackButtonContent">
+            <summary>
+              Looks up a localized string similar to cancel.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_CameraButtonContent">
+            <summary>
+              Looks up a localized string similar to camera.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_CommentButtonContent">
+            <summary>
+              Looks up a localized string similar to comment.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_DeleteMenuText">
+            <summary>
+              Looks up a localized string similar to delete.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_GroupButtonContent">
+            <summary>
+              Looks up a localized string similar to group.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_NewMessageButtonContent">
+            <summary>
+              Looks up a localized string similar to new.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_NewStatusButtonContent">
+            <summary>
+              Looks up a localized string similar to new.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_OKButtonContent">
+            <summary>
+              Looks up a localized string similar to ok.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_RefreshButtonContent">
+            <summary>
+              Looks up a localized string similar to refresh.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_RepostButtonContent">
+            <summary>
+              Looks up a localized string similar to repost.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_RetryButtonContent">
+            <summary>
+              Looks up a localized string similar to retry.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SaveMenuText">
+            <summary>
+              Looks up a localized string similar to save.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SearchButtonContent">
+            <summary>
+              Looks up a localized string similar to search.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SendButtonContent">
+            <summary>
+              Looks up a localized string similar to send.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SendMessageButtonContent">
+            <summary>
+              Looks up a localized string similar to send.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SettingsMenuText">
+            <summary>
+              Looks up a localized string similar to settings.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_ShareByEmailMenuItemText">
+            <summary>
+              Looks up a localized string similar to share by email.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_ShareBySMSMenuItemText">
+            <summary>
+              Looks up a localized string similar to share by sms.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SignOutMenuText">
+            <summary>
+              Looks up a localized string similar to sign out.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ApplicationBar_SwitchAccountMenuText">
+            <summary>
+              Looks up a localized string similar to sign in with another account.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.CancelButton">
+            <summary>
+              Looks up a localized string similar to cancel.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ErrorCode">
+            <summary>
+              Looks up a localized string similar to error : {0}{1}code : {2}.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.FriendsPage_FollowerTitle">
+            <summary>
+              Looks up a localized string similar to follower.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.FriendsPage_FollowingTitle">
+            <summary>
+              Looks up a localized string similar to following.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.FriendsPage_FriendTitle">
+            <summary>
+              Looks up a localized string similar to friend.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.FriendsPage_NoFollowers">
+            <summary>
+              Looks up a localized string similar to no followers.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.FriendsPage_NoFriendHintText">
+            <summary>
+              Looks up a localized string similar to Click here to follow a player..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_AchievementTileTitle">
+            <summary>
+              Looks up a localized string similar to Achievement.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_AddFirstFriendText">
+            <summary>
+              Looks up a localized string similar to And add your first friend..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_AnnouncementTileTitle">
+            <summary>
+              Looks up a localized string similar to Announcement.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_BeatenRateText">
+            <summary>
+              Looks up a localized string similar to Beat {0}% of the players.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_ComeOnText">
+            <summary>
+              Looks up a localized string similar to Come On！.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_FeaturedGameTitle">
+            <summary>
+              Looks up a localized string similar to Featured Game.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_FriendTileTitle">
+            <summary>
+              Looks up a localized string similar to Friends.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_GameTitle">
+            <summary>
+              Looks up a localized string similar to game.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_GroupAllButtonContent">
+            <summary>
+              Looks up a localized string similar to all.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_GroupAnnouncementButtonContent">
+            <summary>
+              Looks up a localized string similar to announcement.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_GroupFollowingButtonContent">
+            <summary>
+              Looks up a localized string similar to following.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_GroupGameButtonContent">
+            <summary>
+              Looks up a localized string similar to game.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_HomeTimeTitle">
+            <summary>
+              Looks up a localized string similar to timeline.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_HomeTitle">
+            <summary>
+              Looks up a localized string similar to home.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_LatestMessageText">
+            <summary>
+              Looks up a localized string similar to Anything to share with friends?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_LeaderboardTileTitle">
+            <summary>
+              Looks up a localized string similar to Leaderboard.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_MessageTileTitle">
+            <summary>
+              Looks up a localized string similar to Message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_MeTitle">
+            <summary>
+              Looks up a localized string similar to me.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_MissionTileTitle">
+            <summary>
+              Looks up a localized string similar to Mission.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_NewMessagesTips">
+            <summary>
+              Looks up a localized string similar to You have {0} new messages..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_NotPlayYetText">
+            <summary>
+              Looks up a localized string similar to Haven&apos;t play this game！Give it a try！.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_OnlinePlayerTileTitle">
+            <summary>
+              Looks up a localized string similar to Online Player.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_RecentGameTitle">
+            <summary>
+              Looks up a localized string similar to Recent Game.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_SignOutWarningContent">
+            <summary>
+              Looks up a localized string similar to Are you sure you want to sign out? An anonymous account will be used in the game..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_SignOutWarningTitle">
+            <summary>
+              Looks up a localized string similar to Sign out?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_UploadPhotoSuccess">
+            <summary>
+              Looks up a localized string similar to Upload photo success!.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_UploadPhotoWarningContent">
+            <summary>
+              Looks up a localized string similar to Would you like to upload your photo?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPage_UploadPhotoWarningTitle">
+            <summary>
+              Looks up a localized string similar to Upload photo?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameCenterPageTimelineFailed">
+            <summary>
+              Looks up a localized string similar to We&apos;re having a problem connecting to the OpenXLive service. Tap here to try again..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameLastAccess">
+            <summary>
+              Looks up a localized string similar to Last access : {0}.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameListPage_FeaturedTitle">
+            <summary>
+              Looks up a localized string similar to featured.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameListPage_HotTitle">
+            <summary>
+              Looks up a localized string similar to hot.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameListPage_MostDownloadTitle">
+            <summary>
+              Looks up a localized string similar to most download.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameListPage_NewTitle">
+            <summary>
+              Looks up a localized string similar to new.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameListPage_RecentTitle">
+            <summary>
+              Looks up a localized string similar to recent.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameProfilePage_DownloadButtonContent">
+            <summary>
+              Looks up a localized string similar to download.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameProfilePage_FriendPlayingTitle">
+            <summary>
+              Looks up a localized string similar to Friend playing the same.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameProfilePage_OnlineNumberText">
+            <summary>
+              Looks up a localized string similar to Online Number.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameProfilePage_Title">
+            <summary>
+              Looks up a localized string similar to DETAILS.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.GameRankInfo">
+            <summary>
+              Looks up a localized string similar to Rank: {0}, Beat {1}% of players.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LeaderboardPage_LeaderboardDaily">
+            <summary>
+              Looks up a localized string similar to daily.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LeaderboardPage_LeaderboardFriends">
+            <summary>
+              Looks up a localized string similar to friends.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LeaderboardPage_LeaderboardGlobal">
+            <summary>
+              Looks up a localized string similar to global.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LeaderboardPage_LeaderboardSelectionPageTitle">
+            <summary>
+              Looks up a localized string similar to leaderboard.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LeaderboardPage_LeaderboardWeekly">
+            <summary>
+              Looks up a localized string similar to weekly.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ListBox_PullDownToRefreshText">
+            <summary>
+              Looks up a localized string similar to Pull down to refresh....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.Loading">
+            <summary>
+              Looks up a localized string similar to Loading....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginButton">
+            <summary>
+              Looks up a localized string similar to sign in.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_AccountNameText">
+            <summary>
+              Looks up a localized string similar to Email address.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_AccountOrPasswordNullWarningText">
+            <summary>
+              Looks up a localized string similar to Account or password cannot be empty..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_CreateAccountButton">
+            <summary>
+              Looks up a localized string similar to create.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_EmailBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Enter your email address.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_EmailBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_LoginSNSFailed">
+            <summary>
+              Looks up a localized string similar to login to {0} failed.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_LoginSNSSuccess">
+            <summary>
+              Looks up a localized string similar to login to {0} succeed.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_LoginToSNS">
+            <summary>
+              Looks up a localized string similar to LOGIN TO SNS.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_NameBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Enter your name.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_NameBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Name.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_NickNameText">
+            <summary>
+              Looks up a localized string similar to Nickname.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_PasswordBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Enter your password.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_PasswordBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Password.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_PasswordLengthRole">
+            <summary>
+              Looks up a localized string similar to Passwords must have at least 6 characters. Please try again..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_PasswordText">
+            <summary>
+              Looks up a localized string similar to Password.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_ReenterPasswordBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Confirm password.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_ReenterPasswordKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Confirm your password.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_ReenterPasswordText">
+            <summary>
+              Looks up a localized string similar to Confirm password.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_RegisteredEmailAddressText">
+            <summary>
+              Looks up a localized string similar to Email address.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_RegisteredEmailBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Enter your email address.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_RegisteredEmailBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_RegisterTitle">
+            <summary>
+              Looks up a localized string similar to new account.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_RePasswordErrorWarningText">
+            <summary>
+              Looks up a localized string similar to These passwords don&apos;t match. Try again?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_SDSOContent">
+            <summary>
+              Looks up a localized string similar to Use the account to login the same device.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_SigninTitle">
+            <summary>
+              Looks up a localized string similar to sign in.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_SNSLogin">
+            <summary>
+              Looks up a localized string similar to SNS login.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginPage_Title">
+            <summary>
+              Looks up a localized string similar to SIGN IN.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.LoginTips">
+            <summary>
+              Looks up a localized string similar to Haven&apos;t sign in！ Now sign in to OpenXLive Game Center..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageBox_CancelButtonContent">
+            <summary>
+              Looks up a localized string similar to cancel.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageBox_NoButtonContent">
+            <summary>
+              Looks up a localized string similar to no.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageBox_NotShowAgainText">
+            <summary>
+              Looks up a localized string similar to Don&apos;t show again.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageBox_OKButtonContent">
+            <summary>
+              Looks up a localized string similar to ok.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageBox_RetryButtonContent">
+            <summary>
+              Looks up a localized string similar to retry.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageBox_YesButtonContent">
+            <summary>
+              Looks up a localized string similar to yes.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessagePage_MoreMessageText">
+            <summary>
+              Looks up a localized string similar to get more.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessagesPage_InputBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Type a text message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessagesPage_InputBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Type message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessagesPage_InputBoxTips">
+            <summary>
+              Looks up a localized string similar to Type a text message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessagesPage_NoMessageText">
+            <summary>
+              Looks up a localized string similar to No messages..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageThreadListPage_NoMessageText">
+            <summary>
+              Looks up a localized string similar to No threads.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageThreadListPage_ThreadsTitle">
+            <summary>
+              Looks up a localized string similar to threads.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.MessageThreadListPage_Title">
+            <summary>
+              Looks up a localized string similar to MESSAGING.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.Network_ConnectFailedText">
+            <summary>
+              Looks up a localized string similar to We&apos;re having a problem connecting to the OpenXLive service. Try again later..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.NetworkInvalid">
+            <summary>
+              Looks up a localized string similar to There was a problem connecting to the OpenXLive servers. Please check the connection status. Some online features may not be available..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.OnlinePlayerPage_OnlinePlayerTitle">
+            <summary>
+              Looks up a localized string similar to online player.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PictureViewPage_Loading">
+            <summary>
+              Looks up a localized string similar to Loading....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PictureViewPage_SaveFailedText">
+            <summary>
+              Looks up a localized string similar to Save picture failed..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PictureViewPage_SaveSucceedText">
+            <summary>
+              Looks up a localized string similar to Save picture succeed..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerFollowers">
+            <summary>
+              Looks up a localized string similar to followers {0}.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerLevel">
+            <summary>
+              Looks up a localized string similar to L.{0}.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerMedalsPage_MedalTitle">
+            <summary>
+              Looks up a localized string similar to medal.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfile_PageTitle">
+            <summary>
+              Looks up a localized string similar to PROFILE.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_AddOrRmeovFriendButtonContent_Follow">
+            <summary>
+              Looks up a localized string similar to follow.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_AddOrRmeovFriendButtonContent_Unfollow">
+            <summary>
+              Looks up a localized string similar to unfollow.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_FollowSucceedText">
+            <summary>
+              Looks up a localized string similar to Follow succeed!.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_MedalsText">
+            <summary>
+              Looks up a localized string similar to Medals.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_RecentGamesText">
+            <summary>
+              Looks up a localized string similar to Recent Games.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_SendMessageButtonContent">
+            <summary>
+              Looks up a localized string similar to message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_UnfollowWarningContent">
+            <summary>
+              Looks up a localized string similar to Are you sure to unfollow this player?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.PlayerProfilePage_UnfollowWarningTitle">
+            <summary>
+              Looks up a localized string similar to Unfollow?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ProgressIndicatorSearching">
+            <summary>
+              Looks up a localized string similar to Searching....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ProgressIndicatorSending">
+            <summary>
+              Looks up a localized string similar to Sending....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.ProgressIndicatorUpdating">
+            <summary>
+              Looks up a localized string similar to Updating....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_FollowSucceedText">
+            <summary>
+              Looks up a localized string similar to Follow succeed!.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_GameTitle">
+            <summary>
+              Looks up a localized string similar to game.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_InputBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Enter a keyword.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_InputBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Search.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_InputBoxTips">
+            <summary>
+              Looks up a localized string similar to search.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_NoSearchResultText">
+            <summary>
+              Looks up a localized string similar to No results for &quot;{0}&quot;.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_PlayerTitle">
+            <summary>
+              Looks up a localized string similar to player.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_PromotionPlayerText">
+            <summary>
+              Looks up a localized string similar to Recommended players for you:.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SearchPage_Searching">
+            <summary>
+              Looks up a localized string similar to Searching for &quot;{0}&quot;....
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_InputBoxKeyboardDescription">
+            <summary>
+              Looks up a localized string similar to Type a text message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_InputBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Type message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_InputBoxTips">
+            <summary>
+              Looks up a localized string similar to Type a message.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_NoFriendHintText">
+            <summary>
+              Looks up a localized string similar to Click here to find a player..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_SelectFriendText">
+            <summary>
+              Looks up a localized string similar to CHOOSE A FRIEND.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_Title">
+            <summary>
+              Looks up a localized string similar to MESSAGE.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SendMessagePage_ToPlayerText">
+            <summary>
+              Looks up a localized string similar to To:.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SettingsPage_NotificationTitle">
+            <summary>
+              Looks up a localized string similar to notification.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SettingsPage_PageTitle">
+            <summary>
+              Looks up a localized string similar to SETTINGS.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SettingsPage_ToggleSwitchHeaderLevelUp">
+            <summary>
+              Looks up a localized string similar to Level up message box.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SettingsPage_ToggleSwitchHeaderNotification">
+            <summary>
+              Looks up a localized string similar to Notification message box.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SettingsPage_ToggleSwitchOffContent">
+            <summary>
+              Looks up a localized string similar to Off.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SettingsPage_ToggleSwitchOnContent">
+            <summary>
+              Looks up a localized string similar to On.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_ConnectFailed">
+            <summary>
+              Looks up a localized string similar to connect to {0} failed.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_ConnectTitle">
+            <summary>
+              Looks up a localized string similar to CONNECT TO SNS.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_LoginFailed">
+            <summary>
+              Looks up a localized string similar to login to {0} failed.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_LoginSuccess">
+            <summary>
+              Looks up a localized string similar to login to {0} succeed.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_LoginTitle">
+            <summary>
+              Looks up a localized string similar to LOGIN TO SNS.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_NotConnected">
+            <summary>
+              Looks up a localized string similar to {0} is not connected..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_SNSLogin">
+            <summary>
+              Looks up a localized string similar to SNS login.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.SocialConnectPage_Waiting">
+            <summary>
+              Looks up a localized string similar to Waiting.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_DeleteMenuItemContent">
+            <summary>
+              Looks up a localized string similar to delete.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_DeleteSuccessText">
+            <summary>
+              Looks up a localized string similar to Delete succeed!.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_NoComments">
+            <summary>
+              Looks up a localized string similar to no comments.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_NoRepost">
+            <summary>
+              Looks up a localized string similar to no repost.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_ProfileMenuItemContent">
+            <summary>
+              Looks up a localized string similar to profile.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_ReplyMenuItemContent">
+            <summary>
+              Looks up a localized string similar to reply.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_RepostMenuItemContent">
+            <summary>
+              Looks up a localized string similar to repost.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_StatusCommentTitle">
+            <summary>
+              Looks up a localized string similar to comments.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_StatusContentTitle">
+            <summary>
+              Looks up a localized string similar to content.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_StatusDeleteWarnintText">
+            <summary>
+              Looks up a localized string similar to Are you sure to delete this?.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_StatusDeleteWarnintTitle">
+            <summary>
+              Looks up a localized string similar to Delete confirm.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusContentPage_StatusRepostTitle">
+            <summary>
+              Looks up a localized string similar to repost.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusDeleted">
+            <summary>
+              Looks up a localized string similar to Sorry, this status had been deleted by the author..
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.StatusFrom">
+            <summary>
+              Looks up a localized string similar to From.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.TaskPage_FinishedText">
+            <summary>
+              Looks up a localized string similar to Finished.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.TaskPage_InProgressText">
+            <summary>
+              Looks up a localized string similar to In progress.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.TaskPage_TaskFinishedCountText">
+            <summary>
+              Looks up a localized string similar to Finished:.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.TaskPage_TaskTitle">
+            <summary>
+              Looks up a localized string similar to TASK.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.TaskPage_UnfinishedText">
+            <summary>
+              Looks up a localized string similar to Unfinished.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_CommentStatusSucceedText">
+            <summary>
+              Looks up a localized string similar to Comment succeed!.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_CommentStatusTitle">
+            <summary>
+              Looks up a localized string similar to NEW COMMENT.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_CommentToOriginaPublisherCheckBoxContent">
+            <summary>
+              Looks up a localized string similar to Comemnt to.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_CommentToPublisherCheckBoxContent">
+            <summary>
+              Looks up a localized string similar to Comment to.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_CommentWithRepostText">
+            <summary>
+              Looks up a localized string similar to Repost status.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_InputBoxKeyboardTitle">
+            <summary>
+              Looks up a localized string similar to Type a text.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_NewStatusTitle">
+            <summary>
+              Looks up a localized string similar to NEW STATUS.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_OriginalContentText">
+            <summary>
+              Looks up a localized string similar to Original content: .
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_ReplyText">
+            <summary>
+              Looks up a localized string similar to reply.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_ReplyToTitle">
+            <summary>
+              Looks up a localized string similar to REPLY TO.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_RepostStautsText">
+            <summary>
+              Looks up a localized string similar to repost.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_RepostStautsTitle">
+            <summary>
+              Looks up a localized string similar to REPOST.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_RepostSucceedText">
+            <summary>
+              Looks up a localized string similar to Repost succeed!.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_ShareImageText">
+            <summary>
+              Looks up a localized string similar to Share image.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_ShareToSNSText">
+            <summary>
+              Looks up a localized string similar to Share to following SNS:.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.AppResources.UpdateStatusPage_UpdateStatusSucceedText">
+            <summary>
+              Looks up a localized string similar to Update succeed!.
+            </summary>
+        </member>
+        <member name="T:OpenXLive.Font.Fonts">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.Fonts.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.Fonts.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.Fonts.MainFont_Part1">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="T:OpenXLive.Font.OpenXLiveFont">
+            <summary>
+            Provides a SpriteFont for OpenXLive
+            </summary>
+        </member>
+        <member name="M:OpenXLive.Font.OpenXLiveFont.#ctor(System.IServiceProvider)">
+            <summary>
+            Create a new instance of OpenXLiveFont with specifies ServiceProvider
+            </summary>
+            <param name="serviceProvider"></param>
+        </member>
+        <member name="M:OpenXLive.Font.OpenXLiveFont.LoadFont">
+            <summary>
+            Load OpenXLive Font
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.OpenXLiveFont.Font">
+            <summary>
+            Gets the default font of OpenXLive
+            </summary>
+        </member>
+        <member name="P:OpenXLive.Font.OpenXLiveFont.FontCollection">
+            <summary>
+            Gets the list of the sprite font.
+            </summary>
+        </member>
+    </members>
+</doc>

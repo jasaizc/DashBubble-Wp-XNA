@@ -1,0 +1,2604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\arrow.png</Source>
+      <Name>Images\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\arrow.xnb</Output>
+      <Time>2013-08-10T16:02:54.1417475+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AnteriorNivel.png</Source>
+      <Name>Images\AnteriorNivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\AnteriorNivel.xnb</Output>
+      <Time>2013-08-07T16:07:23.2302435+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Candado.png</Source>
+      <Name>Images\Candado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Candado.xnb</Output>
+      <Time>2013-08-07T17:28:55.1142067+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\continuar.png</Source>
+      <Name>Images\continuar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\continuar.xnb</Output>
+      <Time>2013-08-05T18:27:58.9706269+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Estrella.png</Source>
+      <Name>Images\Estrella</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Estrella.xnb</Output>
+      <Time>2013-08-09T15:46:28.1424408+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\exit.png</Source>
+      <Name>Images\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\exit.xnb</Output>
+      <Time>2013-07-16T17:48:33.2599644+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fase1.png</Source>
+      <Name>Images\fase1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase1.xnb</Output>
+      <Time>2013-08-01T04:03:55.7498431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fase2.png</Source>
+      <Name>Images\fase2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase2.xnb</Output>
+      <Time>2013-08-01T03:58:27.9745844+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fase3.png</Source>
+      <Name>Images\fase3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase3.xnb</Output>
+      <Time>2013-08-01T04:00:23.9633287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fase4.png</Source>
+      <Name>Images\fase4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fase4.xnb</Output>
+      <Time>2013-08-01T04:01:42.7557284+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo1.jpg</Source>
+      <Name>Images\fondo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo1.xnb</Output>
+      <Time>2013-08-10T11:56:15.7755905+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo11.jpg</Source>
+      <Name>Images\fondo11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo11.xnb</Output>
+      <Time>2013-08-10T12:02:42.1803943+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo12.jpg</Source>
+      <Name>Images\fondo12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo12.xnb</Output>
+      <Time>2013-08-10T12:02:56.9779971+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo13.jpg</Source>
+      <Name>Images\fondo13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo13.xnb</Output>
+      <Time>2013-08-10T12:03:09.3533307+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo2.jpg</Source>
+      <Name>Images\fondo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo2.xnb</Output>
+      <Time>2013-08-10T12:01:20.7763567+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo21.jpg</Source>
+      <Name>Images\fondo21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo21.xnb</Output>
+      <Time>2013-08-10T12:03:40.7894789+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo22.jpg</Source>
+      <Name>Images\fondo22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo22.xnb</Output>
+      <Time>2013-08-10T12:03:51.0172963+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo23.jpg</Source>
+      <Name>Images\fondo23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo23.xnb</Output>
+      <Time>2013-08-10T12:04:04.1811765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo3.jpg</Source>
+      <Name>Images\fondo3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo3.xnb</Output>
+      <Time>2013-08-10T12:02:09.1665492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo31.jpg</Source>
+      <Name>Images\fondo31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo31.xnb</Output>
+      <Time>2013-08-10T12:04:15.988047+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo32.jpg</Source>
+      <Name>Images\fondo32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo32.xnb</Output>
+      <Time>2013-08-10T12:04:36.4012354+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo33.jpg</Source>
+      <Name>Images\fondo33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo33.xnb</Output>
+      <Time>2013-08-10T12:04:45.8623545+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo4.jpg</Source>
+      <Name>Images\fondo4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo4.xnb</Output>
+      <Time>2013-08-10T12:02:20.0414301+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo41.jpg</Source>
+      <Name>Images\fondo41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo41.xnb</Output>
+      <Time>2013-08-10T12:04:59.5527279+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo42.jpg</Source>
+      <Name>Images\fondo42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo42.xnb</Output>
+      <Time>2013-08-10T12:05:14.4201841+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondo43.jpg</Source>
+      <Name>Images\fondo43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondo43.xnb</Output>
+      <Time>2013-08-10T12:05:28.9675946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FondosNiveles.png</Source>
+      <Name>Images\FondosNiveles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles.xnb</Output>
+      <Time>2013-07-28T21:23:59.5869324+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FondosNiveles1.png</Source>
+      <Name>Images\FondosNiveles1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles1.xnb</Output>
+      <Time>2013-07-31T13:58:45.7796237+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FondosNiveles12.png</Source>
+      <Name>Images\FondosNiveles12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondosNiveles12.xnb</Output>
+      <Time>2013-07-31T14:16:01.6113321+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ganar.png</Source>
+      <Name>Images\Ganar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ganar.xnb</Output>
+      <Time>2013-08-05T21:02:30.4978759+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mail.png</Source>
+      <Name>Images\Mail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Mail.xnb</Output>
+      <Time>2013-08-13T13:36:30.7010953+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu.png</Source>
+      <Name>Images\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Menu.xnb</Output>
+      <Time>2013-07-31T15:47:51.040717+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MenuInicio.png</Source>
+      <Name>Images\MenuInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuInicio.xnb</Output>
+      <Time>2013-08-05T18:24:57.870747+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Music.png</Source>
+      <Name>Images\Music</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Music.xnb</Output>
+      <Time>2013-08-13T12:32:52.8799591+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\newGame.png</Source>
+      <Name>Images\newGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\newGame.xnb</Output>
+      <Time>2013-07-16T17:36:16.1263365+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\1.png</Source>
+      <Name>Images\Nivel1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\1.xnb</Output>
+      <Time>2013-08-07T18:18:13.1718001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\10.png</Source>
+      <Name>Images\Nivel1\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\10.xnb</Output>
+      <Time>2013-08-08T12:04:18.09383+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\11.png</Source>
+      <Name>Images\Nivel1\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\11.xnb</Output>
+      <Time>2013-08-08T12:04:18.0948309+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\12.png</Source>
+      <Name>Images\Nivel1\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\12.xnb</Output>
+      <Time>2013-08-08T12:04:18.0958318+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\13.png</Source>
+      <Name>Images\Nivel1\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\13.xnb</Output>
+      <Time>2013-08-09T14:33:50.9606255+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\14.png</Source>
+      <Name>Images\Nivel1\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\14.xnb</Output>
+      <Time>2013-08-09T14:33:21.9257318+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\15.png</Source>
+      <Name>Images\Nivel1\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\15.xnb</Output>
+      <Time>2013-08-09T14:32:22.9411374+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\16.png</Source>
+      <Name>Images\Nivel1\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\16.xnb</Output>
+      <Time>2013-08-09T14:32:11.9860046+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\17.png</Source>
+      <Name>Images\Nivel1\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\17.xnb</Output>
+      <Time>2013-08-09T14:31:59.7403492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\18.png</Source>
+      <Name>Images\Nivel1\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\18.xnb</Output>
+      <Time>2013-08-09T14:31:47.1830851+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\19.png</Source>
+      <Name>Images\Nivel1\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\19.xnb</Output>
+      <Time>2013-08-09T14:31:38.2599152+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\2.png</Source>
+      <Name>Images\Nivel1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\2.xnb</Output>
+      <Time>2013-08-07T18:18:13.1874265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\20.png</Source>
+      <Name>Images\Nivel1\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\20.xnb</Output>
+      <Time>2013-08-09T14:31:19.7471448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\21.png</Source>
+      <Name>Images\Nivel1\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\21.xnb</Output>
+      <Time>2013-08-09T14:30:40.2553655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\22.png</Source>
+      <Name>Images\Nivel1\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\22.xnb</Output>
+      <Time>2013-08-09T14:30:28.7963892+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\23.png</Source>
+      <Name>Images\Nivel1\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\23.xnb</Output>
+      <Time>2013-08-09T14:30:18.9634175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\24.png</Source>
+      <Name>Images\Nivel1\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\24.xnb</Output>
+      <Time>2013-08-09T14:30:07.0205815+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\25.png</Source>
+      <Name>Images\Nivel1\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\25.xnb</Output>
+      <Time>2013-08-09T14:34:48.2775251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\26.png</Source>
+      <Name>Images\Nivel1\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\26.xnb</Output>
+      <Time>2013-08-09T14:35:19.7243265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\27.png</Source>
+      <Name>Images\Nivel1\27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\27.xnb</Output>
+      <Time>2013-08-09T14:35:52.0235502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\28.png</Source>
+      <Name>Images\Nivel1\28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\28.xnb</Output>
+      <Time>2013-08-09T14:36:29.8620806+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\29.png</Source>
+      <Name>Images\Nivel1\29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\29.xnb</Output>
+      <Time>2013-08-09T14:37:00.3895314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\3.png</Source>
+      <Name>Images\Nivel1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\3.xnb</Output>
+      <Time>2013-08-07T18:18:13.2071864+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\30.png</Source>
+      <Name>Images\Nivel1\30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\30.xnb</Output>
+      <Time>2013-08-09T14:37:27.7470676+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\31.png</Source>
+      <Name>Images\Nivel1\31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\31.xnb</Output>
+      <Time>2013-08-09T15:37:37.7498297+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\32.png</Source>
+      <Name>Images\Nivel1\32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\32.xnb</Output>
+      <Time>2013-08-09T15:40:30.0099299+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\33.png</Source>
+      <Name>Images\Nivel1\33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\33.xnb</Output>
+      <Time>2013-08-09T18:47:37.3465303+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\34.png</Source>
+      <Name>Images\Nivel1\34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\34.xnb</Output>
+      <Time>2013-08-09T18:46:45.5706316+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\35.png</Source>
+      <Name>Images\Nivel1\35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\35.xnb</Output>
+      <Time>2013-08-09T18:47:56.2649487+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\36.png</Source>
+      <Name>Images\Nivel1\36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\36.xnb</Output>
+      <Time>2013-08-09T18:48:20.4371979+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\37.png</Source>
+      <Name>Images\Nivel1\37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\37.xnb</Output>
+      <Time>2013-08-09T18:48:49.777848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\38.png</Source>
+      <Name>Images\Nivel1\38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\38.xnb</Output>
+      <Time>2013-08-09T18:49:11.9508536+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\39.png</Source>
+      <Name>Images\Nivel1\39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\39.xnb</Output>
+      <Time>2013-08-09T18:49:40.519758+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\4.png</Source>
+      <Name>Images\Nivel1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\4.xnb</Output>
+      <Time>2013-08-08T12:04:18.0406427+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\40.png</Source>
+      <Name>Images\Nivel1\40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\40.xnb</Output>
+      <Time>2013-08-09T18:50:07.5411511+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\41.png</Source>
+      <Name>Images\Nivel1\41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\41.xnb</Output>
+      <Time>2013-08-09T18:50:32.4124729+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\42.png</Source>
+      <Name>Images\Nivel1\42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\42.xnb</Output>
+      <Time>2013-08-09T18:51:49.7202517+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\43.png</Source>
+      <Name>Images\Nivel1\43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\43.xnb</Output>
+      <Time>2013-08-09T18:52:11.5710175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\44.png</Source>
+      <Name>Images\Nivel1\44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\44.xnb</Output>
+      <Time>2013-08-09T18:52:43.1806242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\45.png</Source>
+      <Name>Images\Nivel1\45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\45.xnb</Output>
+      <Time>2013-08-09T18:53:33.8852412+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\46.png</Source>
+      <Name>Images\Nivel1\46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\46.xnb</Output>
+      <Time>2013-08-09T18:53:58.0196708+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\47.png</Source>
+      <Name>Images\Nivel1\47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\47.xnb</Output>
+      <Time>2013-08-09T18:54:22.2183376+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\48.png</Source>
+      <Name>Images\Nivel1\48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\48.xnb</Output>
+      <Time>2013-08-09T18:54:58.7818868+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\5.png</Source>
+      <Name>Images\Nivel1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\5.xnb</Output>
+      <Time>2013-08-08T12:04:18.0426431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\6.png</Source>
+      <Name>Images\Nivel1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\6.xnb</Output>
+      <Time>2013-08-08T12:04:18.0436436+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\7.png</Source>
+      <Name>Images\Nivel1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\7.xnb</Output>
+      <Time>2013-08-08T12:04:18.0456453+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\8.png</Source>
+      <Name>Images\Nivel1\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\8.xnb</Output>
+      <Time>2013-08-08T12:04:18.0908278+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel1\9.png</Source>
+      <Name>Images\Nivel1\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel1\9.xnb</Output>
+      <Time>2013-08-08T12:04:18.0918282+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2.png</Source>
+      <Name>Images\Nivel2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2.xnb</Output>
+      <Time>2013-08-10T02:17:21.2728148+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\49.png</Source>
+      <Name>Images\Nivel2\49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\49.xnb</Output>
+      <Time>2013-08-09T19:20:18.2134616+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\50.png</Source>
+      <Name>Images\Nivel2\50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\50.xnb</Output>
+      <Time>2013-08-09T19:21:02.2167793+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\51.png</Source>
+      <Name>Images\Nivel2\51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\51.xnb</Output>
+      <Time>2013-08-09T19:21:27.8130335+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\52.png</Source>
+      <Name>Images\Nivel2\52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\52.xnb</Output>
+      <Time>2013-08-09T19:21:49.9075342+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\53.png</Source>
+      <Name>Images\Nivel2\53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\53.xnb</Output>
+      <Time>2013-08-09T19:22:17.1062161+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\54.png</Source>
+      <Name>Images\Nivel2\54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\54.xnb</Output>
+      <Time>2013-08-09T19:22:39.0742747+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\55.png</Source>
+      <Name>Images\Nivel2\55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\55.xnb</Output>
+      <Time>2013-08-09T19:23:00.7025792+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\56.png</Source>
+      <Name>Images\Nivel2\56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\56.xnb</Output>
+      <Time>2013-08-09T19:23:23.1341902+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\57.png</Source>
+      <Name>Images\Nivel2\57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\57.xnb</Output>
+      <Time>2013-08-09T19:23:45.9594546+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\58.png</Source>
+      <Name>Images\Nivel2\58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\58.xnb</Output>
+      <Time>2013-08-09T19:24:09.2431576+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\59.png</Source>
+      <Name>Images\Nivel2\59</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\59.xnb</Output>
+      <Time>2013-08-09T19:24:32.1522468+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\60.png</Source>
+      <Name>Images\Nivel2\60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\60.xnb</Output>
+      <Time>2013-08-09T19:24:52.8605639+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\61.png</Source>
+      <Name>Images\Nivel2\61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\61.xnb</Output>
+      <Time>2013-08-09T19:25:11.0323945+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\62.png</Source>
+      <Name>Images\Nivel2\62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\62.xnb</Output>
+      <Time>2013-08-09T19:25:33.0511097+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\63.png</Source>
+      <Name>Images\Nivel2\63</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\63.xnb</Output>
+      <Time>2013-08-09T19:25:53.2473017+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\64.png</Source>
+      <Name>Images\Nivel2\64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\64.xnb</Output>
+      <Time>2013-08-09T19:26:19.5615182+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\65.png</Source>
+      <Name>Images\Nivel2\65</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\65.xnb</Output>
+      <Time>2013-08-09T19:26:39.2184433+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\66.png</Source>
+      <Name>Images\Nivel2\66</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\66.xnb</Output>
+      <Time>2013-08-09T19:27:04.7048795+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\67.png</Source>
+      <Name>Images\Nivel2\67</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\67.xnb</Output>
+      <Time>2013-08-09T19:27:27.1551147+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\68.png</Source>
+      <Name>Images\Nivel2\68</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\68.xnb</Output>
+      <Time>2013-08-09T19:27:51.3593834+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\69.png</Source>
+      <Name>Images\Nivel2\69</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\69.xnb</Output>
+      <Time>2013-08-09T19:28:09.1384066+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\70.png</Source>
+      <Name>Images\Nivel2\70</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\70.xnb</Output>
+      <Time>2013-08-09T19:28:32.8829225+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\71.png</Source>
+      <Name>Images\Nivel2\71</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\71.xnb</Output>
+      <Time>2013-08-09T19:29:37.256892+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\72.png</Source>
+      <Name>Images\Nivel2\72</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\72.xnb</Output>
+      <Time>2013-08-09T19:29:57.5811272+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\73.png</Source>
+      <Name>Images\Nivel2\73</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\73.xnb</Output>
+      <Time>2013-08-09T19:30:17.2939869+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\74.png</Source>
+      <Name>Images\Nivel2\74</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\74.xnb</Output>
+      <Time>2013-08-09T19:30:38.1520053+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\75.png</Source>
+      <Name>Images\Nivel2\75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\75.xnb</Output>
+      <Time>2013-08-09T19:30:58.3645391+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\76.png</Source>
+      <Name>Images\Nivel2\76</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\76.xnb</Output>
+      <Time>2013-08-09T19:31:17.1543119+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\77.png</Source>
+      <Name>Images\Nivel2\77</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\77.xnb</Output>
+      <Time>2013-08-09T19:44:32.6050115+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\78.png</Source>
+      <Name>Images\Nivel2\78</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\78.xnb</Output>
+      <Time>2013-08-09T19:31:35.1227975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\79.png</Source>
+      <Name>Images\Nivel2\79</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\79.xnb</Output>
+      <Time>2013-08-09T19:31:53.5034091+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\80.png</Source>
+      <Name>Images\Nivel2\80</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\80.xnb</Output>
+      <Time>2013-08-09T19:32:14.7267286+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\81.png</Source>
+      <Name>Images\Nivel2\81</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\81.xnb</Output>
+      <Time>2013-08-09T19:32:35.74026+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\82.png</Source>
+      <Name>Images\Nivel2\82</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\82.xnb</Output>
+      <Time>2013-08-09T19:32:59.7761153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\83.png</Source>
+      <Name>Images\Nivel2\83</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\83.xnb</Output>
+      <Time>2013-08-09T19:33:20.5434692+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\84.png</Source>
+      <Name>Images\Nivel2\84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\84.xnb</Output>
+      <Time>2013-08-09T19:33:40.9111295+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\85.png</Source>
+      <Name>Images\Nivel2\85</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\85.xnb</Output>
+      <Time>2013-08-09T19:34:07.0475153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\86.png</Source>
+      <Name>Images\Nivel2\86</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\86.xnb</Output>
+      <Time>2013-08-09T19:34:30.0059613+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\87.png</Source>
+      <Name>Images\Nivel2\87</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\87.xnb</Output>
+      <Time>2013-08-09T19:34:53.2522008+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\88.png</Source>
+      <Name>Images\Nivel2\88</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\88.xnb</Output>
+      <Time>2013-08-09T19:35:12.9546286+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\89.png</Source>
+      <Name>Images\Nivel2\89</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\89.xnb</Output>
+      <Time>2013-08-09T19:35:42.2006655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\90.png</Source>
+      <Name>Images\Nivel2\90</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\90.xnb</Output>
+      <Time>2013-08-09T19:36:06.2369024+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\91.png</Source>
+      <Name>Images\Nivel2\91</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\91.xnb</Output>
+      <Time>2013-08-09T19:36:29.5943043+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\92.png</Source>
+      <Name>Images\Nivel2\92</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\92.xnb</Output>
+      <Time>2013-08-09T19:36:53.2068819+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\93.png</Source>
+      <Name>Images\Nivel2\93</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\93.xnb</Output>
+      <Time>2013-08-09T19:37:16.2659776+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\94.png</Source>
+      <Name>Images\Nivel2\94</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\94.xnb</Output>
+      <Time>2013-08-09T19:37:41.5626503+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\95.png</Source>
+      <Name>Images\Nivel2\95</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\95.xnb</Output>
+      <Time>2013-08-09T19:38:05.5809951+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel2\96.png</Source>
+      <Name>Images\Nivel2\96</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel2\96.xnb</Output>
+      <Time>2013-08-09T19:38:27.0716232+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3.png</Source>
+      <Name>Images\Nivel3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3.xnb</Output>
+      <Time>2013-08-10T02:17:33.06341+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\100.png</Source>
+      <Name>Images\Nivel3\100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\100.xnb</Output>
+      <Time>2013-08-09T23:06:58.2825649+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\101.png</Source>
+      <Name>Images\Nivel3\101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\101.xnb</Output>
+      <Time>2013-08-09T23:07:18.4106072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\102.png</Source>
+      <Name>Images\Nivel3\102</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\102.xnb</Output>
+      <Time>2013-08-09T23:08:07.3345362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\103.png</Source>
+      <Name>Images\Nivel3\103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\103.xnb</Output>
+      <Time>2013-08-09T23:08:25.5821992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\104.png</Source>
+      <Name>Images\Nivel3\104</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\104.xnb</Output>
+      <Time>2013-08-09T23:08:46.1039628+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\105.png</Source>
+      <Name>Images\Nivel3\105</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\105.xnb</Output>
+      <Time>2013-08-09T23:09:07.6050058+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\106.png</Source>
+      <Name>Images\Nivel3\106</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\106.xnb</Output>
+      <Time>2013-08-09T23:09:29.2592045+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\107.png</Source>
+      <Name>Images\Nivel3\107</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\107.xnb</Output>
+      <Time>2013-08-09T23:09:53.3641648+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\108.png</Source>
+      <Name>Images\Nivel3\108</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\108.xnb</Output>
+      <Time>2013-08-09T23:10:22.9405926+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\109.png</Source>
+      <Name>Images\Nivel3\109</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\109.xnb</Output>
+      <Time>2013-08-09T23:10:44.6465639+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\110.png</Source>
+      <Name>Images\Nivel3\110</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\110.xnb</Output>
+      <Time>2013-08-09T23:11:15.4706378+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\111.png</Source>
+      <Name>Images\Nivel3\111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\111.xnb</Output>
+      <Time>2013-08-09T23:11:35.8976999+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\112.png</Source>
+      <Name>Images\Nivel3\112</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\112.xnb</Output>
+      <Time>2013-08-09T23:11:55.4261007+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\113.png</Source>
+      <Name>Images\Nivel3\113</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\113.xnb</Output>
+      <Time>2013-08-09T23:12:15.8106503+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\114.png</Source>
+      <Name>Images\Nivel3\114</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\114.xnb</Output>
+      <Time>2013-08-09T23:12:34.7997012+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\115.png</Source>
+      <Name>Images\Nivel3\115</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\115.xnb</Output>
+      <Time>2013-08-09T23:13:04.0121666+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\116.png</Source>
+      <Name>Images\Nivel3\116</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\116.xnb</Output>
+      <Time>2013-08-09T23:13:27.1063184+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\117.png</Source>
+      <Name>Images\Nivel3\117</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\117.xnb</Output>
+      <Time>2013-08-09T23:13:48.240657+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\118.png</Source>
+      <Name>Images\Nivel3\118</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\118.xnb</Output>
+      <Time>2013-08-09T23:14:08.4231485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\119.png</Source>
+      <Name>Images\Nivel3\119</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\119.xnb</Output>
+      <Time>2013-08-09T23:14:26.8153678+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\120.png</Source>
+      <Name>Images\Nivel3\120</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\120.xnb</Output>
+      <Time>2013-08-09T23:15:16.1353237+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\121.png</Source>
+      <Name>Images\Nivel3\121</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\121.xnb</Output>
+      <Time>2013-08-09T23:15:38.0522816+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\122.png</Source>
+      <Name>Images\Nivel3\122</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\122.xnb</Output>
+      <Time>2013-08-09T23:16:30.9518558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\123.png</Source>
+      <Name>Images\Nivel3\123</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\123.xnb</Output>
+      <Time>2013-08-09T23:16:54.346591+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\124.png</Source>
+      <Name>Images\Nivel3\124</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\124.xnb</Output>
+      <Time>2013-08-09T23:17:11.6817967+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\125.png</Source>
+      <Name>Images\Nivel3\125</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\125.xnb</Output>
+      <Time>2013-08-09T23:17:36.3165706+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\126.png</Source>
+      <Name>Images\Nivel3\126</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\126.xnb</Output>
+      <Time>2013-08-09T23:17:53.6090424+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\127.png</Source>
+      <Name>Images\Nivel3\127</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\127.xnb</Output>
+      <Time>2013-08-09T23:18:12.6267456+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\128.png</Source>
+      <Name>Images\Nivel3\128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\128.xnb</Output>
+      <Time>2013-08-09T23:18:28.8670927+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\129.png</Source>
+      <Name>Images\Nivel3\129</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\129.xnb</Output>
+      <Time>2013-08-09T23:19:53.2150949+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\130.png</Source>
+      <Name>Images\Nivel3\130</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\130.xnb</Output>
+      <Time>2013-08-09T23:20:15.15498+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\131.png</Source>
+      <Name>Images\Nivel3\131</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\131.xnb</Output>
+      <Time>2013-08-09T23:20:33.732942+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\132.png</Source>
+      <Name>Images\Nivel3\132</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\132.xnb</Output>
+      <Time>2013-08-09T23:20:53.546633+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\133.png</Source>
+      <Name>Images\Nivel3\133</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\133.xnb</Output>
+      <Time>2013-08-09T23:21:09.3199289+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\134.png</Source>
+      <Name>Images\Nivel3\134</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\134.xnb</Output>
+      <Time>2013-08-09T23:21:38.5801938+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\135.png</Source>
+      <Name>Images\Nivel3\135</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\135.xnb</Output>
+      <Time>2013-08-09T23:21:56.3747346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\136.png</Source>
+      <Name>Images\Nivel3\136</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\136.xnb</Output>
+      <Time>2013-08-09T23:22:12.6399276+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\137.png</Source>
+      <Name>Images\Nivel3\137</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\137.xnb</Output>
+      <Time>2013-08-09T23:22:31.648853+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\138.png</Source>
+      <Name>Images\Nivel3\138</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\138.xnb</Output>
+      <Time>2013-08-09T23:22:49.4556231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\139.png</Source>
+      <Name>Images\Nivel3\139</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\139.xnb</Output>
+      <Time>2013-08-09T23:23:05.0361795+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\140.png</Source>
+      <Name>Images\Nivel3\140</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\140.xnb</Output>
+      <Time>2013-08-09T23:23:22.7044633+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\141.png</Source>
+      <Name>Images\Nivel3\141</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\141.xnb</Output>
+      <Time>2013-08-09T23:23:37.0783011+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\142.png</Source>
+      <Name>Images\Nivel3\142</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\142.xnb</Output>
+      <Time>2013-08-09T23:23:58.3563651+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\143.png</Source>
+      <Name>Images\Nivel3\143</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\143.xnb</Output>
+      <Time>2013-08-09T23:24:15.9748709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\144.png</Source>
+      <Name>Images\Nivel3\144</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\144.xnb</Output>
+      <Time>2013-08-09T23:26:39.0415623+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\97.png</Source>
+      <Name>Images\Nivel3\97</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\97.xnb</Output>
+      <Time>2013-08-09T23:05:52.0487992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\98.png</Source>
+      <Name>Images\Nivel3\98</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\98.xnb</Output>
+      <Time>2013-08-09T23:06:17.8367818+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel3\99.png</Source>
+      <Name>Images\Nivel3\99</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel3\99.xnb</Output>
+      <Time>2013-08-09T23:06:35.3245893+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4.png</Source>
+      <Name>Images\Nivel4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4.xnb</Output>
+      <Time>2013-08-10T02:18:00.4386388+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\145.png</Source>
+      <Name>Images\Nivel4\145</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\145.xnb</Output>
+      <Time>2013-08-10T11:36:29.8323583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\146.png</Source>
+      <Name>Images\Nivel4\146</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\146.xnb</Output>
+      <Time>2013-08-10T11:36:52.5745605+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\147.png</Source>
+      <Name>Images\Nivel4\147</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\147.xnb</Output>
+      <Time>2013-08-10T11:37:12.7548918+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\148.png</Source>
+      <Name>Images\Nivel4\148</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\148.xnb</Output>
+      <Time>2013-08-10T11:37:30.0120425+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\149.png</Source>
+      <Name>Images\Nivel4\149</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\149.xnb</Output>
+      <Time>2013-08-10T11:37:47.5496615+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\150.png</Source>
+      <Name>Images\Nivel4\150</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\150.xnb</Output>
+      <Time>2013-08-10T11:38:05.2696024+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\151.png</Source>
+      <Name>Images\Nivel4\151</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\151.xnb</Output>
+      <Time>2013-08-10T11:38:31.6394657+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\152.png</Source>
+      <Name>Images\Nivel4\152</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\152.xnb</Output>
+      <Time>2013-08-10T11:38:52.5296428+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\153.png</Source>
+      <Name>Images\Nivel4\153</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\153.xnb</Output>
+      <Time>2013-08-10T11:39:08.1972568+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\154.png</Source>
+      <Name>Images\Nivel4\154</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\154.xnb</Output>
+      <Time>2013-08-10T11:39:24.9443605+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\155.png</Source>
+      <Name>Images\Nivel4\155</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\155.xnb</Output>
+      <Time>2013-08-10T11:40:33.0941934+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\156.png</Source>
+      <Name>Images\Nivel4\156</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\156.xnb</Output>
+      <Time>2013-08-10T11:40:52.3994033+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\157.png</Source>
+      <Name>Images\Nivel4\157</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\157.xnb</Output>
+      <Time>2013-08-10T11:41:08.7413805+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\158.png</Source>
+      <Name>Images\Nivel4\158</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\158.xnb</Output>
+      <Time>2013-08-10T11:41:54.7209406+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\159.png</Source>
+      <Name>Images\Nivel4\159</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\159.xnb</Output>
+      <Time>2013-08-10T11:42:11.9922202+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\160.png</Source>
+      <Name>Images\Nivel4\160</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\160.xnb</Output>
+      <Time>2013-08-10T11:42:27.731974+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\161.png</Source>
+      <Name>Images\Nivel4\161</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\161.xnb</Output>
+      <Time>2013-08-10T11:42:52.0401575+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\162.png</Source>
+      <Name>Images\Nivel4\162</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\162.xnb</Output>
+      <Time>2013-08-10T11:43:23.299177+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\163.png</Source>
+      <Name>Images\Nivel4\163</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\163.xnb</Output>
+      <Time>2013-08-10T11:44:44.7115609+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\164.png</Source>
+      <Name>Images\Nivel4\164</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\164.xnb</Output>
+      <Time>2013-08-10T11:45:04.419637+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\165.png</Source>
+      <Name>Images\Nivel4\165</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\165.xnb</Output>
+      <Time>2013-08-10T11:45:21.0043036+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\166.png</Source>
+      <Name>Images\Nivel4\166</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\166.xnb</Output>
+      <Time>2013-08-10T11:45:37.7041905+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\167.png</Source>
+      <Name>Images\Nivel4\167</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\167.xnb</Output>
+      <Time>2013-08-10T11:45:57.2571763+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\168.png</Source>
+      <Name>Images\Nivel4\168</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\168.xnb</Output>
+      <Time>2013-08-10T11:46:14.5594646+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\169.png</Source>
+      <Name>Images\Nivel4\169</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\169.xnb</Output>
+      <Time>2013-08-10T11:46:31.5020262+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\170.png</Source>
+      <Name>Images\Nivel4\170</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\170.xnb</Output>
+      <Time>2013-08-10T11:46:45.7830795+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\171.png</Source>
+      <Name>Images\Nivel4\171</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\171.xnb</Output>
+      <Time>2013-08-10T11:47:04.7859314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\172.png</Source>
+      <Name>Images\Nivel4\172</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\172.xnb</Output>
+      <Time>2013-08-10T11:47:23.2976759+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\173.png</Source>
+      <Name>Images\Nivel4\173</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\173.xnb</Output>
+      <Time>2013-08-10T11:47:41.8778583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\174.png</Source>
+      <Name>Images\Nivel4\174</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\174.xnb</Output>
+      <Time>2013-08-10T11:48:10.6789854+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\175.png</Source>
+      <Name>Images\Nivel4\175</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\175.xnb</Output>
+      <Time>2013-08-10T11:48:29.0923014+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\176.png</Source>
+      <Name>Images\Nivel4\176</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\176.xnb</Output>
+      <Time>2013-08-10T11:48:44.66057+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\177.png</Source>
+      <Name>Images\Nivel4\177</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\177.xnb</Output>
+      <Time>2013-08-10T11:49:35.6435879+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\178.png</Source>
+      <Name>Images\Nivel4\178</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\178.xnb</Output>
+      <Time>2013-08-10T11:50:05.7345902+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\179.png</Source>
+      <Name>Images\Nivel4\179</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\179.xnb</Output>
+      <Time>2013-08-10T11:50:26.3360711+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\180.png</Source>
+      <Name>Images\Nivel4\180</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\180.xnb</Output>
+      <Time>2013-08-10T11:50:49.8494943+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\181.png</Source>
+      <Name>Images\Nivel4\181</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\181.xnb</Output>
+      <Time>2013-08-10T11:51:09.5510242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\182.png</Source>
+      <Name>Images\Nivel4\182</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\182.xnb</Output>
+      <Time>2013-08-10T11:51:24.1855059+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\183.png</Source>
+      <Name>Images\Nivel4\183</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\183.xnb</Output>
+      <Time>2013-08-10T11:51:39.9872679+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\184.png</Source>
+      <Name>Images\Nivel4\184</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\184.xnb</Output>
+      <Time>2013-08-10T11:51:55.7946542+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\185.png</Source>
+      <Name>Images\Nivel4\185</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\185.xnb</Output>
+      <Time>2013-08-10T11:52:12.5861285+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\186.png</Source>
+      <Name>Images\Nivel4\186</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\186.xnb</Output>
+      <Time>2013-08-10T11:52:31.1254762+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\187.png</Source>
+      <Name>Images\Nivel4\187</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\187.xnb</Output>
+      <Time>2013-08-10T11:52:48.0826535+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\188.png</Source>
+      <Name>Images\Nivel4\188</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\188.xnb</Output>
+      <Time>2013-08-10T11:53:03.0950462+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\189.png</Source>
+      <Name>Images\Nivel4\189</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\189.xnb</Output>
+      <Time>2013-08-10T11:53:18.0965986+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\190.png</Source>
+      <Name>Images\Nivel4\190</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\190.xnb</Output>
+      <Time>2013-08-10T11:53:30.5884667+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\191.png</Source>
+      <Name>Images\Nivel4\191</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\191.xnb</Output>
+      <Time>2013-08-10T11:53:45.5773258+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Nivel4\192.png</Source>
+      <Name>Images\Nivel4\192</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Nivel4\192.xnb</Output>
+      <Time>2013-08-10T11:54:01.9787816+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NoMusic.png</Source>
+      <Name>Images\NoMusic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoMusic.xnb</Output>
+      <Time>2013-08-13T12:33:07.3386725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Opcion.png</Source>
+      <Name>Images\Opcion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Opcion.xnb</Output>
+      <Time>2013-07-16T17:36:16.1283378+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PasarNivel.png</Source>
+      <Name>Images\PasarNivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\PasarNivel.xnb</Output>
+      <Time>2013-08-05T18:24:37.8511795+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pausa.png</Source>
+      <Name>Images\Pausa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Pausa.xnb</Output>
+      <Time>2013-08-05T20:47:28.7810924+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Perder.png</Source>
+      <Name>Images\Perder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Perder.xnb</Output>
+      <Time>2013-08-05T20:38:23.3310917+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ProxNivel.png</Source>
+      <Name>Images\ProxNivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ProxNivel.xnb</Output>
+      <Time>2013-08-07T16:06:38.0481237+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Prueba1.png</Source>
+      <Name>Images\Prueba1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Prueba1.xnb</Output>
+      <Time>2013-08-07T16:51:52.9340819+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Puntuacion.png</Source>
+      <Name>Images\Puntuacion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Puntuacion.xnb</Output>
+      <Time>2013-08-14T17:01:42.5801832+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rate.png</Source>
+      <Name>Images\rate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\rate.xnb</Output>
+      <Time>2013-07-16T17:36:16.13034+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Reiniciar.png</Source>
+      <Name>Images\Reiniciar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reiniciar.xnb</Output>
+      <Time>2013-08-05T18:25:21.7141448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Scene.png</Source>
+      <Name>Images\Scene</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Scene.xnb</Output>
+      <Time>2013-07-16T17:36:16.13134+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\splash.png</Source>
+      <Name>Images\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\splash.xnb</Output>
+      <Time>2013-08-10T16:28:02.8902308+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\video.png</Source>
+      <Name>Images\video</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\video.xnb</Output>
+      <Time>2013-07-16T17:49:06.0689867+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bubble.png</Source>
+      <Name>bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\bubble.xnb</Output>
+      <Time>2013-07-17T11:56:07.5282996+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\1x1.bmp</Source>
+      <Name>Images\1x1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\1x1.xnb</Output>
+      <Time>2011-12-12T15:08:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bubble-1.png</Source>
+      <Name>Images\bubble-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\bubble-1.xnb</Output>
+      <Time>2013-07-17T12:00:25.6525648+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ParticulaBurbuja.png</Source>
+      <Name>Images\ParticulaBurbuja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\ParticulaBurbuja.xnb</Output>
+      <Time>2013-07-17T12:01:38.5811254+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BurbujaAyuda.png</Source>
+      <Name>Images\BurbujaAyuda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\BurbujaAyuda.xnb</Output>
+      <Time>2013-08-10T02:28:28.6718556+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\techo.png</Source>
+      <Name>Images\techo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\techo.xnb</Output>
+      <Time>2013-08-10T02:25:51.6181003+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fondoPantalla.png</Source>
+      <Name>Images\fondoPantalla</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\fondoPantalla.xnb</Output>
+      <Time>2013-08-10T02:25:17.1170229+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Letrero.png</Source>
+      <Name>Images\Letrero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Letrero.xnb</Output>
+      <Time>2013-07-10T19:05:53.2096078+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Efectos.png</Source>
+      <Name>Images\Efectos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Efectos.xnb</Output>
+      <Time>2013-08-13T12:47:29.5701678+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NoEfectos.png</Source>
+      <Name>Images\NoEfectos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoEfectos.xnb</Output>
+      <Time>2013-08-13T12:54:28.4136191+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Reset.png</Source>
+      <Name>Images\Reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reset.xnb</Output>
+      <Time>2013-08-13T13:09:38.7896805+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Info.png</Source>
+      <Name>Images\Info</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Info.xnb</Output>
+      <Time>2013-08-13T13:15:30.3595028+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ayuda.png</Source>
+      <Name>Images\Ayuda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ayuda.xnb</Output>
+      <Time>2013-08-13T13:26:09.1671484+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NoAyuda.png</Source>
+      <Name>Images\NoAyuda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\NoAyuda.xnb</Output>
+      <Time>2013-08-13T13:26:38.0589663+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MenuReinicio1.png</Source>
+      <Name>Images\MenuReinicio1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuReinicio1.xnb</Output>
+      <Time>2013-08-13T16:01:46.0822216+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cancel.png</Source>
+      <Name>Images\Cancel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Cancel.xnb</Output>
+      <Time>2013-08-13T16:08:15.4839955+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ok.png</Source>
+      <Name>Images\Ok</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Ok.xnb</Output>
+      <Time>2013-08-13T16:10:14.1001777+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Reloj.png</Source>
+      <Name>Images\Reloj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Reloj.xnb</Output>
+      <Time>2013-08-14T12:48:56.2285711+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FondoOpciones.jpg</Source>
+      <Name>Images\FondoOpciones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoOpciones.xnb</Output>
+      <Time>2013-08-14T17:18:07.4522686+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FondoMenu.jpg</Source>
+      <Name>Images\FondoMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FondoMenu.xnb</Output>
+      <Time>2013-08-14T17:17:07.7654936+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FinalJuego.jpg</Source>
+      <Name>Images\FinalJuego</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\FinalJuego.xnb</Output>
+      <Time>2013-08-16T12:32:11.7282009+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MenuReinicio.jpg</Source>
+      <Name>Images\MenuReinicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\MenuReinicio.xnb</Output>
+      <Time>2013-08-17T13:43:23.648023+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Podium.png</Source>
+      <Name>Images\Podium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Images\Podium.xnb</Output>
+      <Time>2013-09-02T01:06:29.6541612+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\SpriteFont1.spritefont</Source>
+      <Name>Letras\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\SpriteFont1.xnb</Output>
+      <Time>2013-08-03T10:43:40.3841319+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\LetraGrande.spritefont</Source>
+      <Name>Letras\LetraGrande</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\LetraGrande.xnb</Output>
+      <Time>2013-08-03T10:43:47.7832247+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\SpriteFont2.spritefont</Source>
+      <Name>Letras\SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\SpriteFont2.xnb</Output>
+      <Time>2013-08-03T10:43:57.6636183+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\SpriteFont3.spritefont</Source>
+      <Name>Letras\SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\SpriteFont3.xnb</Output>
+      <Time>2013-08-09T15:24:54.8093453+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\NumerosNiveles.spritefont</Source>
+      <Name>Letras\NumerosNiveles</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\NumerosNiveles.xnb</Output>
+      <Time>2013-08-09T15:28:11.6737845+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\Opciones.spritefont</Source>
+      <Name>Letras\Opciones</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Opciones.xnb</Output>
+      <Time>2013-08-13T12:35:35.0156381+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\Reinicio.spritefont</Source>
+      <Name>Letras\Reinicio</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Reinicio.xnb</Output>
+      <Time>2013-08-13T16:22:08.0647017+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\Musica.spritefont</Source>
+      <Name>Letras\Musica</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Musica.xnb</Output>
+      <Time>2013-08-14T11:41:58.3051974+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Letras\Final.spritefont</Source>
+      <Name>Letras\Final</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Letras\Final.xnb</Output>
+      <Time>2013-08-16T12:39:46.9173051+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\Boing.mp3</Source>
+      <Name>Musica\Boing</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Boing.xnb</Output>
+      <Time>2012-01-02T12:24:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\Jump.mp3</Source>
+      <Name>Musica\Jump</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Jump.xnb</Output>
+      <Time>2012-01-02T12:24:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\Puzzle-Boble_theme.mp3</Source>
+      <Name>Musica\Puzzle-Boble_theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Puzzle-Boble_theme.xnb</Output>
+      <Extra>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Puzzle-Boble_theme.wma</Extra>
+      <Time>2012-01-02T22:25:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\pop1.wav</Source>
+      <Name>Musica\pop1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\pop1.xnb</Output>
+      <Time>2012-01-02T13:59:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\pop2.wav</Source>
+      <Name>Musica\pop2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\pop2.xnb</Output>
+      <Time>2012-01-02T13:59:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\next_level.wav</Source>
+      <Name>Musica\next_level</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\next_level.xnb</Output>
+      <Time>2013-08-15T22:26:10.6167807+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\game_over.wav</Source>
+      <Name>Musica\game_over</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\game_over.xnb</Output>
+      <Time>2013-08-15T22:42:40.9919667+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\Lose.wav</Source>
+      <Name>Musica\Lose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Lose.xnb</Output>
+      <Time>2013-08-15T23:55:32.8112508+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\Final.wav</Source>
+      <Name>Musica\Final</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\Musica\Final.xnb</Output>
+      <Time>2011-10-24T15:30:48+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C5531D25-4DF3-4FA7-BA14-65E20FB67117}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jesus\SkyDrive\Proyectos Windows Phone\Dash Bubble(Septiembre2013)\BooblePuzzle\BooblePuzzle\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-08T03:14:58.4029546+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
